@@ -1,0 +1,10 @@
+{
+  "meta": {"note": "fictional data for tests"},
+  "data": {
+    "children": [
+      {"data": {"id": "a1", "title": "Looking for a Flutter dev", "permalink": "/r/sample/a1", "budget": 300, "remote": true}},
+      {"data": {"id": "a2", "title": "Need a logo", "permalink": "/r/sample/a2", "budget": 50, "remote": false}},
+      {"data": {"id": "a3", "name": "Fix my Node.js API", "url": "https://example.com/a3", "budget": {"min": 1}}}
+    ]
+  }
+}
